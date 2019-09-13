@@ -2,7 +2,7 @@
 
 ### Install
 
-1. Download [layers-to-spritesheet.jsx](https://github.com/RoxanneAlbutt/photoshop-trim-to-powerOf2/blob/master/trim-to-p2.zip?raw=true)
+1. Download [layers-to-spritesheet.zip](https://github.com/RoxanneAlbutt/ps-layers-to-spritesheet/blob/master/layers-to-spritesheet.zip?raw=true)
 2. Place `layers-to-spritesheet.jsx` in the Photoshop Scripts folder.
 	- OS X: `/Applications/[Photoshop]/Presets/Scripts/`
 	- Windows: `C:\[Program Files]\Adobe\[Photoshop]\Presets\Scripts`
